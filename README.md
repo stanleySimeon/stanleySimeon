@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Stanley SIMEON
 
-![Stanley SIMEON](https://user-images.githubusercontent.com/91237525/155897798-a5af48db-33a8-4dfd-bc31-eea255c76989.png)
+![Untitled](https://user-images.githubusercontent.com/91237525/155900842-5037e168-aafc-400b-8737-9d56eb0c97b5.png)
 
 
 <!--
