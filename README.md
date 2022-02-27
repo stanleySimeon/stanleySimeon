@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Stanley SIMEON
 
-![CHEESE!](Stanley SIMEON-2.mp4)
+![Stanley SIMEON](https://user-images.githubusercontent.com/91237525/155897798-a5af48db-33a8-4dfd-bc31-eea255c76989.png)
+
 
 <!--
 **stanleySimeon/stanleySimeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
