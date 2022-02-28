@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleySimeon&label=Views&color=blue&style=plastic" alt="Stanley SIMEON" /></p>
 
-![Untitled](https://user-images.githubusercontent.com/91237525/155900842-5037e168-aafc-400b-8737-9d56eb0c97b5.png)
+![Untitled](https://user-images.githubusercontent.com/91237525/155943410-4c031c01-287a-479c-a710-72bbb6506011.png)
 
 - Currently studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌱 Currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
