@@ -9,7 +9,6 @@
 - 👯 I'm interested in collaborating and contributing to open source projects.
 - 🤔 Aside from programming,  I am a Drumer! I love listening to music, playing games.
 
-
 ### Languages 
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
@@ -40,5 +39,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanleySimeon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanleySimeon&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=stanleySimeon&row=1)](https://github.com/ryo-ma/github-profile-trophy)
