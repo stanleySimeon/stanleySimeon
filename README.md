@@ -41,4 +41,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanleySimeon&show_icons=true&theme=radical)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanleySimeon&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=stanleySimeon&row=1)](https://github.com/ryo-ma/github-profile-trophy)
