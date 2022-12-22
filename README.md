@@ -19,6 +19,7 @@
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
 ![PostgreSQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor)
+![java](https://icongr.am/devicon/java-original-wordmark.svg?size=50&color=currentColor)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 
 ### Tools 👨🏾‍💻
@@ -29,6 +30,7 @@
 ![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=currentColor)
 ![Bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=currentColor)
 ![Webpack](https://icongr.am/devicon/webpack-original-wordmark.svg?size=50&color=currentColor)
+
 
 ### Connect with me via:
 <p>
@@ -49,4 +51,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanleySimeon&show_icons=true&theme=radical)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanleySimeon&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,stanleySimeon.github.io)](https://github.com/stanleySimeon/github-readme-stats)
