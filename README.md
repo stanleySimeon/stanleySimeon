@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleySimeon&label=Views&color=blue&style=plastic" alt="Stanley SIMEON" /></p>
 
-![Untitled](https://user-images.githubusercontent.com/91237525/155947606-063c9739-9eac-4e08-8e0c-11d7c7949f78.png)
+![github-header-image (4)](https://github.com/stanleySimeon/stanleySimeon/assets/91237525/c6591273-88d4-4909-99a3-2044468a3c7d)
 
 - **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌱 Learned the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
