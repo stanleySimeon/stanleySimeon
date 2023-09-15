@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley SIMEON</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleySimeon&label=Views&color=blue&style=plastic" alt="Stanley SIMEON" /></p>
 
 ![Untitled](https://user-images.githubusercontent.com/91237525/155947606-063c9739-9eac-4e08-8e0c-11d7c7949f78.png)
