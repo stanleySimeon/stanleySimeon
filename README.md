@@ -18,8 +18,6 @@
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-![](https://icongr.am/devicon/django-original.svg?size=50&color=currentColor)
 ![PostgreSQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 
