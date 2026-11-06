@@ -9,17 +9,6 @@
 - 👯 I'm interested in collaborating and contributing to open-source projects.
 - 🤔 Aside from programming,  I am a Drummer! I love listening to music and playing games...
 
-### Tools 👨🏾‍💻
-
-![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
-![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
-![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=50&color=currentColor)
-![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=currentColor)
-![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=131eae)
-![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor)
-
-
 ### Connect with me via:
 <p>
   <a target="_blank"
@@ -36,7 +25,4 @@
     src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanleySimeon&show_icons=true&theme=radical)
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanleySimeon&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,stanleySimeon.github.io)](https://github.com/stanleySimeon/github-readme-stats)
