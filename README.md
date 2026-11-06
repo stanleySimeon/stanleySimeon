@@ -9,18 +9,6 @@
 - 👯 I'm interested in collaborating and contributing to open-source projects.
 - 🤔 Aside from programming,  I am a Drummer! I love listening to music and playing games...
 
-### Languages
-
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Typescript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
-![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
-![PostgreSQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor)
-![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
-
 ### Tools 👨🏾‍💻
 
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
